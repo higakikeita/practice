@@ -78,7 +78,7 @@ gem 'devise'
 gem 'active_hash'
 gem 'ancestry'
 gem 'pry-rails'
-gem 'omniauth-facebook'
-gem 'omniauth-google-oauth2'
+gem 'omniauth-facebook', '>= 7.0.0'
+gem 'omniauth-google-oauth2', '>= 0.8.1'
 gem "omniauth-rails_csrf_protection"
 
